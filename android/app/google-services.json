@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674487607661",
+    "firebase_url": "https://enroute-3dd40.firebaseio.com",
+    "project_id": "enroute-3dd40",
+    "storage_bucket": "enroute-3dd40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674487607661:android:46adeb211aa28f5e28fa64",
+        "android_client_info": {
+          "package_name": "com.angiebush.enroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674487607661-f9sj73m3m95cm38754u6r7ht2qiuhgv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-L-cJF8T64J10ARutCDugQgQLwj7XUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674487607661-f9sj73m3m95cm38754u6r7ht2qiuhgv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
