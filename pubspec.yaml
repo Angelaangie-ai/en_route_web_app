@@ -1,0 +1,116 @@
+name: enroute
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  url_launcher: ^5.7.10
+  social_buttons: ^0.0.2
+  font_awesome_flutter: ^8.11.0
+  modal_progress_hud: ^0.1.3
+  flutter_facebook_login: ^3.0.0
+  http: ^0.12.2
+  firebase_core: ^0.5.0
+  firebase_auth: ^0.18.0+1
+  cloud_firestore: ^0.14.0+2
+  google_sign_in: ^4.5.1
+  provider: ^4.0.1
+  google_maps_flutter: ^0.5.30
+  google_maps_place_picker: ^0.9.5
+  geolocator: ^5.3.1
+  social_share: ^2.0.5
+  path_provider: ^1.6.14
+  screenshots: ^2.1.1
+  image_picker: ^0.6.7+7
+  screenshot: ^0.2.0
+  popup_box: ^0.1.0
+  circular_menu: ^1.1.0
+  rxdart: ^0.23.1
+  flutter_bloc: ^6.0.6
+  percent_indicator: ^2.1.7+4
+  cached_network_image: ^2.0.0-rc
+  shared_preferences: 0.5.3+4
+  simple_animations: 1.3.3
+  flutter_slidable: 0.5.3
+  location: 2.3.5
+  firebase_storage: 5.0.0
+  file_picker: 1.3.8
+  flutter_local_notifications: 0.7.1+3
+  latlong: ^0.6.1
+  geodesy: ^0.3.2
+  place_picker: ^0.9.15
+  geocoding: ^1.0.5
+  flutter_staggered_grid_view: ^0.3.0
+  nice_button: ^0.1.7
+  animated_button: ^0.1.2
+  o_popup: ^0.1.4
+  rflutter_alert: ^1.1.0
+  alert: ^1.0.1
+  sweetalert: ^0.0.1
+  share_content_facebook: ^0.0.1
+  flutter_share_me: ^0.9.1
+  get: ^3.0.1
+  flutter_launcher_icons: ^0.8.0
+  firebase: ^7.3.0
+  firebase_analytics: ^4.0.0
+  line_awesome_flutter: ^1.0.1
+  video_player: ^1.0.1
+  youtube_player_iframe: ^1.2.0+2
+
+
+
+
+flutter_icons:
+  image path: "assets/icons/logo.png"
+  android: true
+  ios: true
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/fbicon.png
+    - images/google-plus.png
+    - images/green_fb.png
+    - images/google_green.png
+    - images/hero-green.png
+    - images/today.png
+    - images/completed.png
+    - images/attach.png
+    - images/notify.png
+    - images/date.png
+    - images/green.png
+    - images/blue.png
+    - images/orange.png
+    - images/delete.png
+    - images/checked.png
+    - assets/images/
+    - assets/icons/
+    - images/images/
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+    - family: Bryndan
+      fonts:
+        - asset: fonts/BryndanWriteBook-nGPM.ttf
