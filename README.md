@@ -1,6 +1,9 @@
 # EnRoute Web App
 
 EnRoute Web App was the third version of the EnRoute App, created within the organization of EnRoute. Its main goal is to empower individuals make more eco-friendly choices.
+
+![Untitled](https://user-images.githubusercontent.com/64707998/147704522-34187c0f-3dc9-463b-b20c-44d8c3c20efa.png)
+
 ### 📢 Step 1: Open up the application
 
 You can find the web version on the link: [https://enroute-3dd40.web.app/#welcome_screen](https://enroute-3dd40.web.app/#welcome_screen).
